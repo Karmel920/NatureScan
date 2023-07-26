@@ -1,0 +1,7 @@
+flask
+flask-restful
+tensorflow
+numpy
+opencv-python
+Pillow
+Wikipedia-API
